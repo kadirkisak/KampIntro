@@ -37,6 +37,8 @@ namespace Metotlar
 
             sepetManager.Ekle2("Armut", "Deveci Armudu", 25, 10);
             sepetManager.Ekle2("Çilek", "Silifke Sera", 32, 5);
+            
+            
         }
     }
 }
